@@ -16,7 +16,7 @@ This repository is designed to strengthen problem-solving skills, build a solid 
 
 ------
 
-## 🎯 Goals of this Repository
+# 🎯 Goals of this Repository
 
 * 📚 Learn C++ through practical implementations
 * 🧠 Strengthen problem-solving abilities
