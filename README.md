@@ -2,7 +2,7 @@
 
 # ⚡ C++ Programming Lab
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+C%2B%2B+Repository+🚀;15%2B+C%2B%2B+Programs+💻;From+Basics+to+Object+Oriented+Programming+🔥;Built+by+Soman+Singhal+✨" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+C%2B%2B+Repository+🚀;29%2B+C%2B%2B+Programs+💻;From+Basics+to+Object+Oriented+Programming+🔥;Built+by+Soman+Singhal+✨" />
 
 # 🌟 About This Repository
 
